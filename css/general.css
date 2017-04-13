@@ -75,13 +75,13 @@ margin: auto;
 .h1_home{
 	font-size: 16px;
 	font-size: 4vw;
-	color: #8D8D8D;
+	color: #34495e;
 	font-family: arvo;
 	font-weight: 300;
 	letter-spacing: 6px;
 }
 
-.h3_home{font-weight: 300; color: #8D8D8D;}
+.h3_home{font-weight: 300; color: #34495e;}
 
 /*own carousel */
 
