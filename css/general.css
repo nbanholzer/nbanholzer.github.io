@@ -233,7 +233,7 @@ color: #ECEBEB;
 }
 
 .navbar-brand {
-	font-family: arvo;
+	/*font-family: arvo;*/
 	letter-spacing: 3px;
 	font-weight: 400 !important;
 }
