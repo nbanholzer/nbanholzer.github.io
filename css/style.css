@@ -4755,7 +4755,10 @@ footer p {
 		h1, .h1 {
 			font-size: 50px;
 		}
-		
+		myName {
+      display: block;
+      font-size: 20px;
+    }
 		h3, .h3 {
 			font-size: 20px;
 			
