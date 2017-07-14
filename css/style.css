@@ -4746,6 +4746,7 @@ footer p {
 		.pull-right {margin-bottom: 40px;}
 		address{margin-top:130px;}
 		.address{text-align:center}
+    .my-map{display: none;}
 	}
 
 	@media only screen and (min-width: 768px) and (max-width: 959px) {
@@ -4773,3 +4774,4 @@ footer p {
 		
 		
 	}
+
