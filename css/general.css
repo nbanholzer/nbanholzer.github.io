@@ -74,7 +74,7 @@ margin: auto;
 
 .h1_home{
 	font-size: 16px;
-	font-size: 70vw;
+	font-size: 4vw;
 	color: #34495e;
 	/*font-family: arvo;*/
 	font-weight: 300;
@@ -1223,6 +1223,9 @@ p.copyright {
 	.intro-divider {
 		width: 100%;
 	}
+	.hl_home{
+		color: #FFFFFF;
+	}
 }
 
 
@@ -1239,6 +1242,9 @@ p.copyright {
 	.joiner {
 		display: block;
 	}
+	.hl_home{
+		color: #FFFFFF;
+	}
 }
 
 @media screen and (max-width: 400px) {
@@ -1251,6 +1257,9 @@ p.copyright {
 
 	.codrops-icon span {
 		display: none;
+	}
+	.hl_home{
+		color: #FFFFFF;
 	}
 
 }
